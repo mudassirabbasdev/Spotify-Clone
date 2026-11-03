@@ -1,0 +1,111 @@
+.sidebar{
+    background-color: red;
+    border-radius: 1rem;
+    display: flex;
+    margin-right: 0.5rem;
+    /* overflow: scroll; */
+}
+
+.library{
+    /* background-color: #121212; */
+    /* display: flex; */
+    width: 340px;
+    height: 100%;
+    margin-top: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 1rem;
+}
+
+.options{
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1rem 0.5rem;
+    display: flex;
+}
+
+.heading{
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.icons{
+    display: flex;
+    /* height: 60px; */
+}
+
+.btn{
+    width: max-content;
+    /* display: flex; */
+    padding: 0.5rem 1rem;
+    background-color: #1f1f1f;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.875rem;
+    border-radius: 1rem;
+}
+
+/* .icons fa-solid{
+    align-items: center;
+    color: #fff;
+    background-color: #1f1f1f;
+    border-radius: 50%;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+} */
+
+.box{
+    color: white;
+    align-items: flex-start;
+    gap: 1.25rem;
+    background-color: #1f1f1f;
+    /* height: 8rem; */
+    border-radius: 0.5rem;
+    justify-content: center;
+    margin: 0.75rem 0 1.50rem 0;
+    padding: 0.75rem 1rem;
+}
+
+.lib-boxes{
+    overflow: auto;
+    height: 150px;
+}
+
+.box-p1{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.box-p2{
+    font-size: 0.85rem;
+    opacity: 0.9;
+}
+
+.badge{
+    background-color: #fff;
+    border: none;
+    border-radius: 100px;
+    padding: 0.25rem 1rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: fit-content;
+}
+
+.QUc50FGWIq8Tqrrr{
+    color: #fff;
+}
+
+.MBfpqcKfONw47JvN{
+    text-align: start;
+}
+
+.iLJbxB{
+    margin-top: 1rem;
+    gap: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+}
